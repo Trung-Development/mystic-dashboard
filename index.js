@@ -1,7 +1,7 @@
 const colors = require("colors");
 const Discord = require("discord.js");
 
-require("dotenv").config();
+require("@dotenvx/dotenvx").config();
 
 const client = new Discord.Client({
   fetchAllMembers: false,
