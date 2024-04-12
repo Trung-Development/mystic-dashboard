@@ -139,7 +139,6 @@ module.exports = async (client) => {
       }
 
       await dbEnsure(client.setups, "TICKETS", obj);
-      manageGiveaways();
       res(true);
     });
 
