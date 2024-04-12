@@ -1,0 +1,12 @@
+{
+  "website": {
+    "support": "https://discord.gg/HcgTkh37d3",
+    "domain": "https://mystic.trung.is-a.dev"
+  },
+  "config": {
+    "port": 1608,
+    "callback": "https://mystic.trung.is-a.dev/callback",
+    "clientID": "1142278243131592754",
+    "secret": ""
+  }
+}

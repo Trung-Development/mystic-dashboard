@@ -1,0 +1,23 @@
+{
+    "name": "squidsim_trivia",
+    "version": "11.0.0",
+    "description": "A Discord Bot made by: trungisreal",
+    "main": "index.js",
+    "dependencies": {
+        "colors": "1.4.0",
+        "discord.js": "^13.17.1",
+        "dotenv": "^16.4.5",
+        "ejs": "^3.1.9",
+        "express": "^4.19.2",
+        "express-session": "^1.18.0",
+        "lodash": "^4.17.21",
+        "memorystore": "^1.6.7",
+        "passport": "^0.7.0",
+        "passport-discord": "^0.1.4",
+        "quickmongo": "github:Tomato6966/quickmongo"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    }
+}
