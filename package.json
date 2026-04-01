@@ -4,7 +4,7 @@
     "description": "A Discord Bot made by: trungisreal",
     "main": "index.js",
     "dependencies": {
-        "@dotenvx/dotenvx": "^0.35.0",
+        "@dotenvx/dotenvx": "^0.45.0",
         "colors": "1.4.0",
         "discord.js": "^13.17.1",
         "ejs": "^3.1.9",
